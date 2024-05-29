@@ -3,9 +3,10 @@
 The Social Media Dashboard is a cutting-edge project that aggregates content from various social platforms, including Twitter and Instagram, and displays them in a unified and responsive interface. This project is designed to streamline social media content management, providing real-time updates and efficient insights.
 ## Installation
 
- install [pip](https://pip.pypa.io/en/stable/) &python&Django.
 
-```bash python -m pip install --upgrade pip ```
+```bash
+ python -m pip install --upgrade pip
+ ```
 ```bash
 pip install Django --upgrade
 ```
