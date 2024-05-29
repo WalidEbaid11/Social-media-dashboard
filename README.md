@@ -5,7 +5,7 @@ The Social Media Dashboard is a cutting-edge project that aggregates content fro
 
 
 ```bash
- python -m pip install --upgrade pip
+python -m pip install --upgrade pip
  ```
 ```bash
 pip install Django --upgrade
