@@ -5,22 +5,20 @@ The Social Media Dashboard is a cutting-edge project that aggregates content fro
 
  install [pip](https://pip.pypa.io/en/stable/) &python&Django.
 
-```bash
-python -m pip install --upgrade pip
-```
+```bash python -m pip install --upgrade pip ```
 ```bash
 pip install Django --upgrade
 ```
 ## Tech Stack
 
 ### Frontend:
-#### < HTML >
-#### < CSS & SCSS >
-#### < JavaScript & jQuery >
-#### < Bootstrap >
+#### HTML 
+#### CSS & SCSS 
+#### JavaScript & jQuery 
+#### Bootstrap 
 ### Backend::
-#### ->Python
-#### ->Django 
+#### Python
+#### Django 
 
 #### ->SQLite3
 
