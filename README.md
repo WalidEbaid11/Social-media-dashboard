@@ -13,13 +13,13 @@ pip install Django --upgrade
 ## Tech Stack
 
 ### Frontend:
-#### HTML 
-#### CSS & SCSS 
-#### JavaScript & jQuery 
-#### Bootstrap 
+##### HTML 
+##### CSS & SCSS 
+##### JavaScript & jQuery 
+##### Bootstrap 
 ### Backend::
-#### Python
-#### Django 
+##### Python
+##### Django 
 
 #### ->SQLite3
 
